@@ -1,0 +1,14 @@
+
+.listItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around; 
+    flex-wrap:wrap ;
+     /* width: 15vw; */
+    height: 100%;  
+    padding: 1em; 
+    /* margin: 5px; */
+    /* font-weight: ; */
+    border-radius: 5%;
+   }

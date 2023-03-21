@@ -1,0 +1,58 @@
+.boton {
+  border-radius: 5px;
+  width: 50%;
+  background-color: rgb(233, 238, 240);
+  box-shadow: 0 0 10px white;
+
+  cursor: pointer;
+  height: 50%;
+  margin-left: 15%;
+}
+
+.boton:hover {
+  background-color: red;
+  color: whitesmoke;
+}
+
+.card {
+  background-color: transparent;
+  width: 15%;
+  border-radius: 10px;
+}
+
+h2 {
+  color: black;
+  background-color: rgb(233, 238, 240);
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgb(134, 154, 134);
+  width: 40%;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+img {
+  border-radius: 10px;
+  width: 100%;
+  box-shadow: 0 0 20px rgb(134, 154, 134);
+}
+
+.nombre:hover {
+  background-color: rgb(34, 38, 39);
+  color: rgb(233, 238, 240);
+}
+
+.corazon {
+  border: 2px solid pink;
+  border-radius: 10px;
+  /* margin-left: 10px; */
+  /* padding: 3px; */
+  background-color: pink;
+  box-shadow: 0 0 10px white;
+  width: 50%;
+  cursor: pointer;
+  height: 50%;
+}

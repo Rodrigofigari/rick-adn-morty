@@ -1,0 +1,50 @@
+.label {
+  color: black;
+  padding: 10px;
+  background-color: cadetblue;
+  border-radius: 5px;
+  /* margin-right: 2%; */
+  font-size: x-large;
+
+  /* width: 50%; */
+}
+
+.input {
+  border-radius: 5px;
+  padding: 15px;
+  font-size: large;
+}
+
+.button {
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  transition: transform 0.3s ease-in-out;
+}
+
+.button:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.button:hover:active {
+  transform: scale(0.8);
+}
+
+.danger {
+  font-size: large;
+  color: #4caf50;
+  background-color: black;
+  /* border: aquamarine solid 1px; */
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.styleForm {
+  height: 5vh;
+  margin-top: 3%;
+}
